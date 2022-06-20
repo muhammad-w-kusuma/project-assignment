@@ -18,3 +18,4 @@
 3. Troubleshooting Notes
 4. Folder Structure description
 
+The entrypoint for engineer to read documentation should be the Github README first.
