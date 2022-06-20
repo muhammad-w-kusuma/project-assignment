@@ -6,8 +6,9 @@
 1. General Information
 2. Project Scope
 3. System Architecture
-  - Architecture Diagram
-  - Block Diagram
+   - Architecture Diagram
+   - Block Diagram
+   - Specific Block Diagram (Backend/Frontend/Mobile)
 4. Flow Diagram
 5. Database Schema
 6. System Requirements
