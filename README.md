@@ -15,8 +15,9 @@
 
 ### Github README
 1. Short Intro (including link to FSD)
-2. Installation Guide (Development & Production)
-3. Troubleshooting Notes
-4. Folder Structure description
+2. Person In Charge(s) (for further question & guidance)
+3. Installation Guide (Development & Production)
+4. Troubleshooting Notes
+5. Folder Structure description
 
 The entrypoint for engineer to read documentation should be the Github README first.
